@@ -4,25 +4,26 @@ body {
     background-image: url('assets/images/interlaced-background.png');
     background-attachment: fixed;
     height: 100%;
+    padding-bottom: 30%;
 }
 
 h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
-    padding-bottom: 15px;
     border-bottom: solid #cccccc;
-    margin:30px;
-    text-align: left;
 }
+
+/* img {
+    height: 250px;
+    width: 400px;
+} */
 
 .main_content {
     background-color: #ffffff;
     width: 960px;
-    margin: auto;
-    height: 450px;
+    height: 100%;
     border: 1px solid #dddddd;
     overflow: visible;
-    margin-top: 15px;
 }
 
 footer {
