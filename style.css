@@ -13,14 +13,17 @@ h2 {
     border-bottom: solid #cccccc;
 }
 
-/* img {
-    height: 250px;
-    width: 400px;
-} */
+h5 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    margin-top: -45px;
+    width: 100%;
+}
 
 .main_content {
     background-color: #ffffff;
-    width: 960px;
+    width: 680px;
     height: 100%;
     border: 1px solid #dddddd;
     overflow: visible;
