@@ -14,11 +14,11 @@ h2 {
 }
 
 h5 {
-    position: absolute;
+    position: relative;
     background-color: #4aaaa5;
     color: white;
     margin-top: -45px;
-    width: 100%;
+
 }
 
 .main_content {
@@ -42,4 +42,5 @@ footer {
     height: 40px;
     font-size: 10px;
 }
+
 
